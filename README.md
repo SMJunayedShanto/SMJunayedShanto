@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SMJunayedShanto
 - 👀 I’m a Software Engineer (Java)
-- 🌱 I’m currently working with Spring Boot
+- 🌱 I’m currently working with Java, Spring Boot (microservice architecture)
 - 📫 How to reach me @smjunayedshanto@gmail.com @+8801618811202
 
 <!---
